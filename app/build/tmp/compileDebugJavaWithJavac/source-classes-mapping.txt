@@ -1,0 +1,19 @@
+com/example/fragment_iiievents03aug21/MainActivity.java
+ com.example.fragment_iiievents03aug21.MainActivity
+com/example/fragment_iiievents03aug21/TimeAndDateFragment.java
+ com.example.fragment_iiievents03aug21.TimeAndDateFragment
+ com.example.fragment_iiievents03aug21.TimeAndDateFragment$1
+com/example/fragment_iiievents03aug21/PriceDetailsFragment.java
+ com.example.fragment_iiievents03aug21.PriceDetailsFragment
+ com.example.fragment_iiievents03aug21.PriceDetailsFragment$1
+com/example/fragment_iiievents03aug21/EventModel.java
+ com.example.fragment_iiievents03aug21.EventModel
+com/example/fragment_iiievents03aug21/CommunicationListener.java
+ com.example.fragment_iiievents03aug21.CommunicationListener
+com/example/fragment_iiievents03aug21/EventDetailsFragment.java
+ com.example.fragment_iiievents03aug21.EventDetailsFragment
+ com.example.fragment_iiievents03aug21.EventDetailsFragment$1
+com/example/fragment_iiievents03aug21/BuildConfig.java
+ com.example.fragment_iiievents03aug21.BuildConfig
+com/example/fragment_iiievents03aug21/PreviewActivity.java
+ com.example.fragment_iiievents03aug21.PreviewActivity
